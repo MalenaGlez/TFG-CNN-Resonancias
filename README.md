@@ -9,6 +9,6 @@ una clasificación de imágenes de resonancias magnéticas cerebrales.
 -`DataPreparation.ipynb`: Contiene el código empleado para la división del conjunto de datos en train, test y validación, 
 además del código para analizar las dimensiones de las imágenes, redimensionarlas y visualizarlas.
 
--`Modelo1.ipynb`: Primer modelo con arquitectura sencilla.
+-`Modelo1.ipynb`: Primer modelo.
 
 -`Modelo2.ipynb`: Modelo con aumento de datos.
