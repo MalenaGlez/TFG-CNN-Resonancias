@@ -9,9 +9,9 @@ una clasificación de imágenes de resonancias magnéticas cerebrales.
   
 - `Filtros`: Como ejemplo del efecto de los filtros sobre las imágenes en la capa de convolución, se crea la función de convolución cruzada para ser aplicada sobre una imagen del conjunto.
   
--`DataPreparation.ipynb`: Contiene el código empleado para la división del conjunto de datos en train, test y validación, 
+- `DataPreparation.ipynb`: Contiene el código empleado para la división del conjunto de datos en train, test y validación, 
 además del código para analizar las dimensiones de las imágenes, redimensionarlas y visualizarlas.
 
--`Modelo1.ipynb`: Primer modelo.
+- `Modelo1.ipynb`: Primer modelo.
 
--`Modelo2.ipynb`: Modelo con aumento de datos.
+- `Modelo2.ipynb`: Modelo con aumento de datos.
